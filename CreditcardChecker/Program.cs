@@ -1,4 +1,4 @@
-﻿namespace CreditcardChecker
+namespace CreditcardChecker
 {
     internal static class Program
     {
