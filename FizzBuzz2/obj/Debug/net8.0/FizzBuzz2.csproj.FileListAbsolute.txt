@@ -1,0 +1,14 @@
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/bin/Debug/net8.0/FizzBuzz2
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/bin/Debug/net8.0/FizzBuzz2.deps.json
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/bin/Debug/net8.0/FizzBuzz2.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/bin/Debug/net8.0/FizzBuzz2.dll
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/bin/Debug/net8.0/FizzBuzz2.pdb
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/FizzBuzz2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/FizzBuzz2.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/FizzBuzz2.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/FizzBuzz2.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/FizzBuzz2.dll
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/refint/FizzBuzz2.dll
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/FizzBuzz2.pdb
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/FizzBuzz2.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz2/obj/Debug/net8.0/ref/FizzBuzz2.dll

@@ -1,0 +1,14 @@
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

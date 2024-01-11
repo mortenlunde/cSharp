@@ -1,0 +1,14 @@
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/bin/Debug/net8.0/AgeChecker
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/bin/Debug/net8.0/AgeChecker.deps.json
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/bin/Debug/net8.0/AgeChecker.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/bin/Debug/net8.0/AgeChecker.dll
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/bin/Debug/net8.0/AgeChecker.pdb
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/AgeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/AgeChecker.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/AgeChecker.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/AgeChecker.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/AgeChecker.dll
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/refint/AgeChecker.dll
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/AgeChecker.pdb
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/AgeChecker.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/AgeChecker/obj/Debug/net8.0/ref/AgeChecker.dll
