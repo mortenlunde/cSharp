@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp3;
 
-internal class Program
+internal static class Program
 {
     private static void Main()
     {
