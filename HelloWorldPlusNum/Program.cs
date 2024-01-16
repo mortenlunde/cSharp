@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp3;
+﻿namespace HelloWorldPlusNum;
 
 internal static class Program
 {
