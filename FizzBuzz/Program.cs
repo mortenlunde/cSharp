@@ -1,6 +1,6 @@
 ﻿namespace FizzBuzz;
 
-internal class Program
+internal static class Program
 {
     private static void Main()
     {
