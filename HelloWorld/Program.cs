@@ -1,9 +1,9 @@
-﻿namespace ConsoleApp1;
+﻿namespace HelloWorld;
 
-internal class Program
+internal static class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("hello world");
+        Console.WriteLine("hello world!");
     }
 }
