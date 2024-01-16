@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/bin/Debug/net8.0/HelloWorldPlusNum
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/bin/Debug/net8.0/HelloWorldPlusNum.deps.json
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/bin/Debug/net8.0/HelloWorldPlusNum.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/bin/Debug/net8.0/HelloWorldPlusNum.dll
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/bin/Debug/net8.0/HelloWorldPlusNum.pdb
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.dll
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/refint/HelloWorldPlusNum.dll
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.pdb
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/HelloWorldPlusNum.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/HelloWorldPlusNum/obj/Debug/net8.0/ref/HelloWorldPlusNum.dll
