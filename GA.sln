@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeChecker", "AgeChecker\Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditcardChecker", "CreditcardChecker\CreditcardChecker.csproj", "{67F9A40D-1E0A-413E-AE5B-43737698320A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonEksamen", "PythonEksamen\PythonEksamen.csproj", "{6E20BC52-FD49-4ED9-8CC6-F67035C3680E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{67F9A40D-1E0A-413E-AE5B-43737698320A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F9A40D-1E0A-413E-AE5B-43737698320A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F9A40D-1E0A-413E-AE5B-43737698320A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E20BC52-FD49-4ED9-8CC6-F67035C3680E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E20BC52-FD49-4ED9-8CC6-F67035C3680E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E20BC52-FD49-4ED9-8CC6-F67035C3680E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E20BC52-FD49-4ED9-8CC6-F67035C3680E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,16 @@
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/bin/Debug/net8.0/PythonEksamen
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/bin/Debug/net8.0/solgtevarer.csv
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/bin/Debug/net8.0/PythonEksamen.deps.json
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/bin/Debug/net8.0/PythonEksamen.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/bin/Debug/net8.0/PythonEksamen.dll
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/bin/Debug/net8.0/PythonEksamen.pdb
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.dll
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/refint/PythonEksamen.dll
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.pdb
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/PythonEksamen.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/PythonEksamen/obj/Debug/net8.0/ref/PythonEksamen.dll
