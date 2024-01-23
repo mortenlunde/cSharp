@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/Peoples/bin/Debug/net8.0/Peoples
+/Users/mortenlunde/RiderProjects/GA/Peoples/bin/Debug/net8.0/Peoples.deps.json
+/Users/mortenlunde/RiderProjects/GA/Peoples/bin/Debug/net8.0/Peoples.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/Peoples/bin/Debug/net8.0/Peoples.dll
+/Users/mortenlunde/RiderProjects/GA/Peoples/bin/Debug/net8.0/Peoples.pdb
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.dll
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/refint/Peoples.dll
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.pdb
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/Peoples.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/Peoples/obj/Debug/net8.0/ref/Peoples.dll
