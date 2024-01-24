@@ -4,15 +4,21 @@ namespace Peoples
     {
         private readonly string _fullname;
         private DateTime _birthDate;
+        private House _house;
+        private int _personnumber;
 
-        public Person()
+        public Person(Personnumber personnumber)
         {
             _fullname = "Undefined";
             _birthDate = new DateTime(1970, 01, 01);
+            this._personnumber = this._personnumber;
         }
+        
+        
 
-        public Person(string fullname)
+        public Person(string fullname, int personnumber)
         {
+            this._personnumber = _personnumber;
             this._fullname = fullname;
         }
 
@@ -21,8 +27,9 @@ namespace Peoples
         /// </summary>
         /// <param name="firstname">Firstname</param>
         /// <param name="lastname">Lastname</param>
-        public Person(string firstname, string lastname)
+        public Person(string firstname, string lastname, Personnumber personnumber)
         {
+            this._personnumber = this._personnumber;
             this._fullname = firstname + " " + lastname;
         }
 
@@ -45,5 +52,17 @@ namespace Peoples
 
             return age;
         }
+
+        public void SetAddress(House _house)
+        {
+            this._house = _house;
+        }
+        
+        public string GetAddress()
+        {
+            return House;
+        }
+
+        public string House { get; }
     }
 }
