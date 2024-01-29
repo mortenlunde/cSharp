@@ -1,0 +1,5 @@
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.sourcelink.json

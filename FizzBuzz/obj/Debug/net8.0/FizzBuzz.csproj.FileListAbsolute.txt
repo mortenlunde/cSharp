@@ -12,3 +12,4 @@
 /Users/mortenlunde/RiderProjects/GA/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
 /Users/mortenlunde/RiderProjects/GA/FizzBuzz/obj/Debug/net8.0/FizzBuzz.genruntimeconfig.cache
 /Users/mortenlunde/RiderProjects/GA/FizzBuzz/obj/Debug/net8.0/ref/FizzBuzz.dll
+/Users/mortenlunde/RiderProjects/GA/FizzBuzz/obj/Debug/net8.0/FizzBuzz.sourcelink.json

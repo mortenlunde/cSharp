@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgeChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca3bae4e6f2d6d9540bfaaaec23725cb4dda8b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgeChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgeChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

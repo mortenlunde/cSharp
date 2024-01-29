@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHkQzZacLiO6yvMxtCTScZCVHeTO0hl60NRCZH/2fCjll9TzGDUzVVg1mA4+6euaA0btywRVpt0DWnlNnbPSxQ==",
+  "success": true,
+  "projectFilePath": "/Users/mortenlunde/RiderProjects/GA/GamesApp/GamesApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mortenlunde/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
