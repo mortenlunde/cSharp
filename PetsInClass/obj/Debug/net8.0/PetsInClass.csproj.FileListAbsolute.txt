@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/bin/Debug/net8.0/PetsInClass
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/bin/Debug/net8.0/PetsInClass.deps.json
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/bin/Debug/net8.0/PetsInClass.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/bin/Debug/net8.0/PetsInClass.dll
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/bin/Debug/net8.0/PetsInClass.pdb
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.dll
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/refint/PetsInClass.dll
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.pdb
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/PetsInClass.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/PetsInClass/obj/Debug/net8.0/ref/PetsInClass.dll
