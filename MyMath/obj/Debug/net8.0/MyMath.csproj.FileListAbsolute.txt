@@ -3,3 +3,10 @@
 /Users/mortenlunde/RiderProjects/GA/MyMath/obj/Debug/net8.0/MyMath.AssemblyInfo.cs
 /Users/mortenlunde/RiderProjects/GA/MyMath/obj/Debug/net8.0/MyMath.csproj.CoreCompileInputs.cache
 /Users/mortenlunde/RiderProjects/GA/MyMath/obj/Debug/net8.0/MyMath.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/MyMath/bin/Debug/net8.0/MyMath.deps.json
+/Users/mortenlunde/RiderProjects/GA/MyMath/bin/Debug/net8.0/MyMath.dll
+/Users/mortenlunde/RiderProjects/GA/MyMath/bin/Debug/net8.0/MyMath.pdb
+/Users/mortenlunde/RiderProjects/GA/MyMath/obj/Debug/net8.0/MyMath.dll
+/Users/mortenlunde/RiderProjects/GA/MyMath/obj/Debug/net8.0/refint/MyMath.dll
+/Users/mortenlunde/RiderProjects/GA/MyMath/obj/Debug/net8.0/MyMath.pdb
+/Users/mortenlunde/RiderProjects/GA/MyMath/obj/Debug/net8.0/ref/MyMath.dll

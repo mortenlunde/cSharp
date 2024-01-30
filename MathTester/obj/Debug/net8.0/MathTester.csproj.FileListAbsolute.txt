@@ -3,3 +3,17 @@
 /Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.AssemblyInfo.cs
 /Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.csproj.CoreCompileInputs.cache
 /Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/MathTester/bin/Debug/net8.0/MathTester
+/Users/mortenlunde/RiderProjects/GA/MathTester/bin/Debug/net8.0/MathTester.deps.json
+/Users/mortenlunde/RiderProjects/GA/MathTester/bin/Debug/net8.0/MathTester.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/MathTester/bin/Debug/net8.0/MathTester.dll
+/Users/mortenlunde/RiderProjects/GA/MathTester/bin/Debug/net8.0/MathTester.pdb
+/Users/mortenlunde/RiderProjects/GA/MathTester/bin/Debug/net8.0/MyMath.dll
+/Users/mortenlunde/RiderProjects/GA/MathTester/bin/Debug/net8.0/MyMath.pdb
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.csproj.AssemblyReference.cache
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.csproj.CopyComplete
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.dll
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/refint/MathTester.dll
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.pdb
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/MathTester.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/MathTester/obj/Debug/net8.0/ref/MathTester.dll

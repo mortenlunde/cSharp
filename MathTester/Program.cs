@@ -1,5 +1,4 @@
 ﻿using MyMath;
-
 namespace MathTester;
 
 class Program
