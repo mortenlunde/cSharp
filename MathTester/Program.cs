@@ -1,20 +1,20 @@
 ﻿using MyMath;
+
 namespace MathTester;
 
-internal static class Program
+class Program
 {
-    internal static void Main()
+    static void Main()
     {
-        List<Shape> shapes = new List<Shape>();
-        Square sq = new Square(6, 7);
-        Console.WriteLine(sq.Area());
-        
+        List<Shape> shapes = [];
+
         shapes.Add(new Square(6, 7));
-        shapes.Add(new Radius(7));
+        shapes.Add(new Circle(3));
 
         foreach (Shape shape in shapes)
         {
-            Console.WriteLine(shape.ToString());
+            Console.WriteLine(shape.Area());
         }
+        
     }
 }

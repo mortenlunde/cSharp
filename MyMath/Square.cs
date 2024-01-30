@@ -1,13 +1,21 @@
 namespace MyMath;
 
-public class Square : Shape
+public class Square:Shape
 {
-    private readonly int _width;
-    private readonly int _height;
+    public double Width;
+    public double Height;
 
-    public Square(int width, int height)
+    //"ctorf" then press tab
+    public Square(double width, double height)
     {
-        this._width = width;
-        this._height = height;
+        this.Width = width;
+        this.Height = height;
     }
+
+    public override double Area()
+    {
+        return Width * Height;
+    }
+    
+    
 }
