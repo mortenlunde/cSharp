@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/BookXample/bin/Debug/net8.0/BookXample
+/Users/mortenlunde/RiderProjects/GA/BookXample/bin/Debug/net8.0/BookXample.deps.json
+/Users/mortenlunde/RiderProjects/GA/BookXample/bin/Debug/net8.0/BookXample.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/BookXample/bin/Debug/net8.0/BookXample.dll
+/Users/mortenlunde/RiderProjects/GA/BookXample/bin/Debug/net8.0/BookXample.pdb
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.dll
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/refint/BookXample.dll
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.pdb
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/BookXample.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/BookXample/obj/Debug/net8.0/ref/BookXample.dll

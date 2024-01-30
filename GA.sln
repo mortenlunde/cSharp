@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTester", "MathTester\MathTester.csproj", "{3A98D3F9-D279-4862-BB32-C65271FBC004}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookXample", "BookXample\BookXample.csproj", "{510F452C-4D88-4A91-9F43-1652986872AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{3A98D3F9-D279-4862-BB32-C65271FBC004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A98D3F9-D279-4862-BB32-C65271FBC004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A98D3F9-D279-4862-BB32-C65271FBC004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510F452C-4D88-4A91-9F43-1652986872AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510F452C-4D88-4A91-9F43-1652986872AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510F452C-4D88-4A91-9F43-1652986872AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510F452C-4D88-4A91-9F43-1652986872AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
