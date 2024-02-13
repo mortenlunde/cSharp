@@ -73,8 +73,8 @@
         {
             do
             {
-                _candyX = Random.Next(12);
-                _candyY = Random.Next(12);
+                _candyX = Random.Next(10);
+                _candyY = Random.Next(10);
             } while (FrogBody.Any(segment => segment.X == _candyX && segment.Y == _candyY));
         }
 
