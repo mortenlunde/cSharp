@@ -30,6 +30,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookXample", "BookXample\Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{7108FA1B-08E3-4616-A734-5518A3B601E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{25B1A60A-4D91-4B61-A075-C49FD13478CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather2.0", "Weather2.0\Weather2.0.csproj", "{21EB2D25-E5F9-45F8-9315-031393A60F55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +100,13 @@ Global
 		{7108FA1B-08E3-4616-A734-5518A3B601E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7108FA1B-08E3-4616-A734-5518A3B601E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7108FA1B-08E3-4616-A734-5518A3B601E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B1A60A-4D91-4B61-A075-C49FD13478CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B1A60A-4D91-4B61-A075-C49FD13478CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B1A60A-4D91-4B61-A075-C49FD13478CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B1A60A-4D91-4B61-A075-C49FD13478CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EB2D25-E5F9-45F8-9315-031393A60F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EB2D25-E5F9-45F8-9315-031393A60F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EB2D25-E5F9-45F8-9315-031393A60F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EB2D25-E5F9-45F8-9315-031393A60F55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

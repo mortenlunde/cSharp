@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/bin/Debug/net8.0/Wather2.0
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/bin/Debug/net8.0/Wather2.0.deps.json
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/bin/Debug/net8.0/Wather2.0.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/bin/Debug/net8.0/Wather2.0.dll
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/bin/Debug/net8.0/Wather2.0.pdb
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.dll
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/refint/Wather2.0.dll
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.pdb
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/Wather2.0.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/Wather2.0/obj/Debug/net8.0/ref/Wather2.0.dll

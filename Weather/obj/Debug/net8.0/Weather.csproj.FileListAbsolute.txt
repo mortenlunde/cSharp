@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/Weather/bin/Debug/net8.0/Weather
+/Users/mortenlunde/RiderProjects/GA/Weather/bin/Debug/net8.0/Weather.deps.json
+/Users/mortenlunde/RiderProjects/GA/Weather/bin/Debug/net8.0/Weather.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/Weather/bin/Debug/net8.0/Weather.dll
+/Users/mortenlunde/RiderProjects/GA/Weather/bin/Debug/net8.0/Weather.pdb
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.dll
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/refint/Weather.dll
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.pdb
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/Weather.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/Weather/obj/Debug/net8.0/ref/Weather.dll
