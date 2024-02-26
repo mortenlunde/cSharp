@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/bin/Debug/net8.0/Pallindroms
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/bin/Debug/net8.0/Pallindroms.deps.json
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/bin/Debug/net8.0/Pallindroms.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/bin/Debug/net8.0/Pallindroms.dll
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/bin/Debug/net8.0/Pallindroms.pdb
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.dll
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/refint/Pallindroms.dll
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.pdb
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/Pallindroms.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/Pallindroms/obj/Debug/net8.0/ref/Pallindroms.dll

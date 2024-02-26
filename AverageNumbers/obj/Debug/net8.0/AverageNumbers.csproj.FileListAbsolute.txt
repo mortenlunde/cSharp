@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/bin/Debug/net8.0/AverageNumbers
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/bin/Debug/net8.0/AverageNumbers.deps.json
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/bin/Debug/net8.0/AverageNumbers.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/bin/Debug/net8.0/AverageNumbers.dll
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/bin/Debug/net8.0/AverageNumbers.pdb
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.dll
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/refint/AverageNumbers.dll
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.pdb
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/AverageNumbers.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/AverageNumbers/obj/Debug/net8.0/ref/AverageNumbers.dll

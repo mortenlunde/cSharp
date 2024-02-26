@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/ReverseText/bin/Debug/net8.0/ReverseText
+/Users/mortenlunde/RiderProjects/GA/ReverseText/bin/Debug/net8.0/ReverseText.deps.json
+/Users/mortenlunde/RiderProjects/GA/ReverseText/bin/Debug/net8.0/ReverseText.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/ReverseText/bin/Debug/net8.0/ReverseText.dll
+/Users/mortenlunde/RiderProjects/GA/ReverseText/bin/Debug/net8.0/ReverseText.pdb
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.dll
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/refint/ReverseText.dll
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.pdb
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ReverseText.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/ReverseText/obj/Debug/net8.0/ref/ReverseText.dll

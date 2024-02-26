@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/bin/Debug/net8.0/Class26.02.24
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/bin/Debug/net8.0/Class26.02.24.deps.json
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/bin/Debug/net8.0/Class26.02.24.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/bin/Debug/net8.0/Class26.02.24.dll
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/bin/Debug/net8.0/Class26.02.24.pdb
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.dll
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/refint/Class26.02.24.dll
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.pdb
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/Class26.02.24.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/Class26.02.24/obj/Debug/net8.0/ref/Class26.02.24.dll

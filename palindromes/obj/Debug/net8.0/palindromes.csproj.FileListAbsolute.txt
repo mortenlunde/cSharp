@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/palindromes/bin/Debug/net8.0/palindromes
+/Users/mortenlunde/RiderProjects/GA/palindromes/bin/Debug/net8.0/palindromes.deps.json
+/Users/mortenlunde/RiderProjects/GA/palindromes/bin/Debug/net8.0/palindromes.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/palindromes/bin/Debug/net8.0/palindromes.dll
+/Users/mortenlunde/RiderProjects/GA/palindromes/bin/Debug/net8.0/palindromes.pdb
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.dll
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/refint/palindromes.dll
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.pdb
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/palindromes.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/palindromes/obj/Debug/net8.0/ref/palindromes.dll
