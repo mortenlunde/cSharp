@@ -2,14 +2,15 @@
 
 public static class Program
 {
-    private delegate bool Warning(double temperature, double humidity,ref string message);
+    private delegate bool Warning(double temperature, double humidity, ref string message);
     private static bool FreezingWarning(double temperature, double humidity, ref string message)
     {
         if (!(temperature <= 0)) return false;
         message = "--- Freezing warning!!! ---";
         return true;
     }
-    static bool RainWarning(double temperature, double humidity,ref string message)
+
+    private static bool RainWarning(double temperature, double humidity,ref string message)
     {
         if (!(humidity >= 50)) return false;
         message = "--- Rain warning!!! ---";
