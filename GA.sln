@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNumbers", "AverageNu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class26.02.24", "Class26.02.24", "{A92A77A4-1C64-47FB-8FA0-390F0C13F621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDecoratorInClass", "TextDecoratorInClass\TextDecoratorInClass.csproj", "{112B40FE-00D4-4227-8D7D-73A1947F6EE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{DA8F05CA-BD88-4329-90D3-098E52D93DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA8F05CA-BD88-4329-90D3-098E52D93DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA8F05CA-BD88-4329-90D3-098E52D93DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112B40FE-00D4-4227-8D7D-73A1947F6EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112B40FE-00D4-4227-8D7D-73A1947F6EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112B40FE-00D4-4227-8D7D-73A1947F6EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112B40FE-00D4-4227-8D7D-73A1947F6EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DA8F05CA-BD88-4329-90D3-098E52D93DB7} = {A92A77A4-1C64-47FB-8FA0-390F0C13F621}

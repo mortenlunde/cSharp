@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/bin/Debug/net8.0/TextDecoratorInClass
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/bin/Debug/net8.0/TextDecoratorInClass.deps.json
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/bin/Debug/net8.0/TextDecoratorInClass.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/bin/Debug/net8.0/TextDecoratorInClass.dll
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/bin/Debug/net8.0/TextDecoratorInClass.pdb
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.dll
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/refint/TextDecoratorInClass.dll
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.pdb
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/TextDecoratorInClass.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/TextDecoratorInClass/obj/Debug/net8.0/ref/TextDecoratorInClass.dll
