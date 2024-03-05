@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/PrintToX/bin/Debug/net8.0/PrintToX
+/Users/mortenlunde/RiderProjects/GA/PrintToX/bin/Debug/net8.0/PrintToX.deps.json
+/Users/mortenlunde/RiderProjects/GA/PrintToX/bin/Debug/net8.0/PrintToX.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/PrintToX/bin/Debug/net8.0/PrintToX.dll
+/Users/mortenlunde/RiderProjects/GA/PrintToX/bin/Debug/net8.0/PrintToX.pdb
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.dll
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/refint/PrintToX.dll
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.pdb
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/PrintToX.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/PrintToX/obj/Debug/net8.0/ref/PrintToX.dll

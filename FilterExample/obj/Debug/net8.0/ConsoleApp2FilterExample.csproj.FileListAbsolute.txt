@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/bin/Debug/net8.0/ConsoleApp2FilterExample
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/bin/Debug/net8.0/ConsoleApp2FilterExample.deps.json
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/bin/Debug/net8.0/ConsoleApp2FilterExample.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/bin/Debug/net8.0/ConsoleApp2FilterExample.dll
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/bin/Debug/net8.0/ConsoleApp2FilterExample.pdb
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.dll
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/refint/ConsoleApp2FilterExample.dll
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.pdb
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ConsoleApp2FilterExample.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/ConsoleApp2FilterExample/obj/Debug/net8.0/ref/ConsoleApp2FilterExample.dll

@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/Lamda/bin/Debug/net8.0/Lamda
+/Users/mortenlunde/RiderProjects/GA/Lamda/bin/Debug/net8.0/Lamda.deps.json
+/Users/mortenlunde/RiderProjects/GA/Lamda/bin/Debug/net8.0/Lamda.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/Lamda/bin/Debug/net8.0/Lamda.dll
+/Users/mortenlunde/RiderProjects/GA/Lamda/bin/Debug/net8.0/Lamda.pdb
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.dll
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/refint/Lamda.dll
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.pdb
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/Lamda.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/Lamda/obj/Debug/net8.0/ref/Lamda.dll

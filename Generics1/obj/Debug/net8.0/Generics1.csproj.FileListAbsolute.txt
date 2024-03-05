@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/Generics1/bin/Debug/net8.0/Generics1
+/Users/mortenlunde/RiderProjects/GA/Generics1/bin/Debug/net8.0/Generics1.deps.json
+/Users/mortenlunde/RiderProjects/GA/Generics1/bin/Debug/net8.0/Generics1.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/Generics1/bin/Debug/net8.0/Generics1.dll
+/Users/mortenlunde/RiderProjects/GA/Generics1/bin/Debug/net8.0/Generics1.pdb
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.dll
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/refint/Generics1.dll
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.pdb
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/Generics1.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/Generics1/obj/Debug/net8.0/ref/Generics1.dll
