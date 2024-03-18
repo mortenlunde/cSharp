@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("palindromes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+665fec9eaac15cdf91b62bfff7aba28d661a7412")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f08a1950d69b68f2961798315f9cd72488fa6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("palindromes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("palindromes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

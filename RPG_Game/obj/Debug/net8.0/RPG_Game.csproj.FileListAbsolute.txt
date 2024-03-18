@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/bin/Debug/net8.0/RPG_Game
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/bin/Debug/net8.0/RPG_Game.deps.json
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/bin/Debug/net8.0/RPG_Game.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/bin/Debug/net8.0/RPG_Game.dll
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/bin/Debug/net8.0/RPG_Game.pdb
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.dll
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/refint/RPG_Game.dll
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.pdb
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/RPG_Game.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/RPG_Game/obj/Debug/net8.0/ref/RPG_Game.dll

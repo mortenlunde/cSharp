@@ -1,0 +1,12 @@
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/bin/Debug/net8.0/PersonDataLibrary.deps.json
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/bin/Debug/net8.0/PersonDataLibrary.dll
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/bin/Debug/net8.0/PersonDataLibrary.pdb
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/PersonDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/PersonDataLibrary.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/PersonDataLibrary.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/PersonDataLibrary.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/PersonDataLibrary.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/PersonDataLibrary.dll
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/refint/PersonDataLibrary.dll
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/PersonDataLibrary.pdb
+/Users/mortenlunde/RiderProjects/GA/PersonDataLibrary/obj/Debug/net8.0/ref/PersonDataLibrary.dll
