@@ -64,6 +64,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Time_1", "Time_1", "{6600B1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonDataLibrary", "PersonDataLibrary\PersonDataLibrary.csproj", "{4905AA4B-7D8B-4D5A-94BE-BE4891E9B4BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSaver", "JsonSaver\JsonSaver.csproj", "{65C34039-B6C9-4FEA-BEBB-9614789F3747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,6 +188,10 @@ Global
 		{4905AA4B-7D8B-4D5A-94BE-BE4891E9B4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4905AA4B-7D8B-4D5A-94BE-BE4891E9B4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4905AA4B-7D8B-4D5A-94BE-BE4891E9B4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C34039-B6C9-4FEA-BEBB-9614789F3747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C34039-B6C9-4FEA-BEBB-9614789F3747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C34039-B6C9-4FEA-BEBB-9614789F3747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C34039-B6C9-4FEA-BEBB-9614789F3747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DA8F05CA-BD88-4329-90D3-098E52D93DB7} = {A92A77A4-1C64-47FB-8FA0-390F0C13F621}

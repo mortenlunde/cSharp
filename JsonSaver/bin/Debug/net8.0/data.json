@@ -1,0 +1,10 @@
+{
+  "cpu": "M1",
+  "gpu": "M1",
+  "ram": "8GB",
+  "drives": {
+    "name": "SSD",
+    "type": "nVME",
+    "capacityGB": 256
+  }
+}
