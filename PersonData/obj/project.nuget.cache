@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "RCHuHLLR7UyKwr5TOpa+4zSIYMfQgl7PaN5hC+U436XDZJPOacR2UN6VrVKSw8ZsqNt4damteWjnxEF0c0H2RA==",
+  "dgSpecHash": "yzFgj3lgSGpufkY2jKCLrePUGaHugZqPIO9kvxxIpB8mmFZX7z7NbMvVK0FfWXhXf98KniClOBzLMH99r+goBw==",
   "success": true,
   "projectFilePath": "/Users/mortenlunde/RiderProjects/GA/PersonData/PersonData.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.configuration/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.configuration.binder/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.binder.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.configuration.environmentvariables/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.environmentvariables.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.fileextensions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.configuration.json/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.json.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.configuration.usersecrets/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.usersecrets.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.fileproviders.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.0-preview.2.24128.5/microsoft.extensions.fileproviders.physical.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.0-preview.2.24128.5/microsoft.extensions.filesystemglobbing.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.2.24128.5/microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/system.text.encodings.web/9.0.0-preview.2.24128.5/system.text.encodings.web.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/system.text.json/9.0.0-preview.2.24128.5/system.text.json.9.0.0-preview.2.24128.5.nupkg.sha512"
+  ],
   "logs": []
 }

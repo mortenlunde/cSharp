@@ -11,4 +11,21 @@
       <ProjectReference Include="..\PersonDataLibrary\PersonDataLibrary.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Update="Persons.csv">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="appsetings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0-preview.2.24128.5" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="9.0.0-preview.2.24128.5" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="9.0.0-preview.2.24128.5" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.0-preview.2.24128.5" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="9.0.0-preview.2.24128.5" />
+    </ItemGroup>
+
 </Project>

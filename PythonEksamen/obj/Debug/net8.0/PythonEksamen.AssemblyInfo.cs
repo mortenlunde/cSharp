@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PythonEksamen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77138425d5a06d5b9696da9a79d090054b10798f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9fa07a75f3c23ab9c4613b7e2f07abf7471609f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PythonEksamen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PythonEksamen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
