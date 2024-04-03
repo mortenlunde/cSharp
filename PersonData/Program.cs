@@ -38,9 +38,18 @@ foreach (Person person in persons)
     Console.WriteLine(person);
 }
 
+// Func<Person, bool> myFilter = person => person.Age > 40;
+
 IEnumerable<Person> personsJson = PersonDataService.GetPersonJSON(jsonFile);
 Console.WriteLine("\nJSON:");
-foreach (Person person in personsJson)
+foreach (Person person in personsJson.Where(person => person.Age > 40))
 {
     Console.WriteLine(person);
 }
+
+// static bool FitlerPerson(Person person)
+// {
+//     return person.Age > 40;
+//     // if (person.Age > 40) return true;
+//     // return false;
+// }
