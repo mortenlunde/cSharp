@@ -31,4 +31,9 @@ public class PersonDataService
 
         return persons;
     }
+
+    public static IEnumerable<Person> GetPersonJSON(string filename)
+    {
+        return JSONReader.ReadFromFile<Person>(filename);
+    }
 }

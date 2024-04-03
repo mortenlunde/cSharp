@@ -1,0 +1,10 @@
+﻿{"FirstName": "Ole", "LastName": "Johansen", "Age": 44,"Gender": "Mann"}
+{"FirstName":"Marte","LastName":"Knutsen","Age":29,"Gender":"Kvinne"}
+{"FirstName":"Jonas","LastName":"Pettersen","Age":45,"Gender":"Mann"}
+{"FirstName":"Kjell","LastName":"Andersen","Age":51,"Gender":"Mann"}
+{"FirstName":"Sara","LastName":"Hansen","Age":27,"Gender":"Kvinne"}
+{"FirstName":"Eva","LastName":"Olson","Age":35,"Gender":"Kvinne"}
+{"FirstName":"Per","LastName":"Nilsen","Age":22,"Gender":"Mann"}
+{"FirstName":"Anna","LastName":"Paulsen","Age":40,"Gender":"Kvinne"}
+{"FirstName":"\u00D8ystein","LastName":"H\u00E5gensen","Age":24,"Gender":"Mann"}
+{"FirstName":"Ola","LastName":"Normann","Age":44,"Gender":"Mann"}

@@ -33,3 +33,4 @@
 /Users/mortenlunde/RiderProjects/GA/PersonData/bin/Debug/net8.0/System.Text.Json.dll
 /Users/mortenlunde/RiderProjects/GA/PersonData/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /Users/mortenlunde/RiderProjects/GA/PersonData/bin/Debug/net8.0/appsetings.json
+/Users/mortenlunde/RiderProjects/GA/PersonData/bin/Debug/net8.0/persons.json

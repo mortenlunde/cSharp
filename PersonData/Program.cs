@@ -9,8 +9,10 @@ IConfiguration configuration = new ConfigurationBuilder()
     .AddJsonFile("appsetings.json")
     .Build();
 string filename = configuration["PersonCSVFileName"] ?? throw new ArgumentException("Mangler filnavn fra konfigurasjon.");
+string jsonFile = configuration["PersonsJSONFileName"] ?? throw new ArgumentException("Mangler filnavn fra konfigurasjon.");
 
-goto csvread;
+
+goto readfiles;
 
 // Signatur på konstruktur
 Person a = new(firstName: "Morten", lastName: "Lunde", age: 33, gender: "Mann");
@@ -28,9 +30,17 @@ Console.WriteLine(a);
 Console.WriteLine(a.FirstName + " " + a.LastName + " " + a.Age + " " + a.Gender);
 Console.WriteLine(b);
 
-csvread:
+readfiles:
 IEnumerable<Person> persons = PersonDataService.GetPersons(filename);
+Console.WriteLine("CSV:");
 foreach (Person person in persons)
+{
+    Console.WriteLine(person);
+}
+
+IEnumerable<Person> personsJson = PersonDataService.GetPersonJSON(jsonFile);
+Console.WriteLine("\nJSON:");
+foreach (Person person in personsJson)
 {
     Console.WriteLine(person);
 }

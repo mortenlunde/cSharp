@@ -1,3 +1,4 @@
 {
-    "PersonCSVFileName": "Persons.csv"
+    "PersonCSVFileName": "Persons.csv",
+    "PersonsJSONFileName": "persons.json"
 }

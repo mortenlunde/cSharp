@@ -15,3 +15,6 @@
 22.03.2024 12:24:13: FileNotFoundException (Could not find file '/Users/mortenlunde/RiderProjects/GA/HelloWorld/bin/Debug/net8.0/test.txt'.)
 22.03.2024 12:25:09: FileNotFoundException (Could not find file '/Users/mortenlunde/RiderProjects/GA/HelloWorld/bin/Debug/net8.0/test.txt'.)
 22.03.2024 12:25:44: FileNotFoundException (Could not find file '/Users/mortenlunde/RiderProjects/GA/HelloWorld/bin/Debug/net8.0/test.txt'.)
+03.04.2024 08:54:10: DivideByZeroException (Attempted to divide by zero.)
+03.04.2024 08:54:46: DivideByZeroException (Attempted to divide by zero.)
+03.04.2024 08:55:08: FileNotFoundException (Could not find file '/Users/mortenlunde/RiderProjects/GA/HelloWorld/bin/Debug/net8.0/test1.txt'.)
