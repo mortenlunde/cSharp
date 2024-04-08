@@ -1,0 +1,15 @@
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/bin/Debug/net8.0/FactorFinder
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/bin/Debug/net8.0/FactorFinder.deps.json
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/bin/Debug/net8.0/FactorFinder.runtimeconfig.json
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/bin/Debug/net8.0/FactorFinder.dll
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/bin/Debug/net8.0/FactorFinder.pdb
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.dll
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/refint/FactorFinder.dll
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.pdb
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/FactorFinder.genruntimeconfig.cache
+/Users/mortenlunde/RiderProjects/GA/FactorFinder/obj/Debug/net8.0/ref/FactorFinder.dll
