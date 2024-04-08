@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uFETiOk2ktcTVqmpYuGUuLPG5RT1Zdtmjy2pY4GXZhnKtneMFOxanUJCT6IwtZidKXJIs4nUmFpyqY7TP5xxA==",
+  "success": true,
+  "projectFilePath": "/Users/mortenlunde/RiderProjects/GA/Encoding/Encoding.csproj",
+  "expectedPackageFiles": [
+    "/Users/mortenlunde/.nuget/packages/dumpify/0.6.5/dumpify.0.6.5.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
