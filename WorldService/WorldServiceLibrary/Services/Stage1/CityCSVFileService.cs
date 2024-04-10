@@ -30,11 +30,11 @@ public static class CityCsvFileService
 
     private static City? CreateCity(string[] content, Action<string>? logger)
     {
-        if (content is [string strID, string strName, string strCC, string strDis, string strPop])
+        if (content is [{ } strId, { } strName, { } strCc, { } strDis, { } strPop])
         {
-            if (!int.TryParse(strID, out int id))
+            if (!int.TryParse(strId, out int id))
             {
-                logger?.Invoke($"Feilet å konvertere int {strID} til string ({string.Join(',', content)}");
+                logger?.Invoke($"Feilet å konvertere int {strId} til string ({string.Join(',', content)}");
                 return null;
             }
             if (string.IsNullOrEmpty(strName))
@@ -43,7 +43,7 @@ public static class CityCsvFileService
                 return null;
             }
             
-            if (string.IsNullOrEmpty(strCC))
+            if (string.IsNullOrEmpty(strCc))
             {
                 logger?.Invoke($"CountryCode kan ikke være null ({string.Join(',', content)}");
                 return null;
@@ -67,7 +67,7 @@ public static class CityCsvFileService
                 return null;
             }
 
-            return new City(id, strName, strCC, strDis, pop);
+            return new City(id, strName, strCc, strDis, pop);
         }
         logger?.Invoke($"Forventet 5 elementer, men mottk bare {content.Length}.");
         return null;
