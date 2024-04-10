@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextDecoratorInClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8a15aa6a3a2fa60bb5eeb61c1622283a112250")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd73c0517a7ba4ea6b9cbf55b273c0a66b57a849")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextDecoratorInClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextDecoratorInClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
