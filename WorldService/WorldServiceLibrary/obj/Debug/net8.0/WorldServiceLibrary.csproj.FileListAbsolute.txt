@@ -1,0 +1,13 @@
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/bin/Debug/net8.0/WorldServiceLibrary.deps.json
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/bin/Debug/net8.0/WorldServiceLibrary.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/bin/Debug/net8.0/WorldServiceLibrary.pdb
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.AssemblyInfoInputs.cache
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.AssemblyInfo.cs
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.csproj.CoreCompileInputs.cache
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.sourcelink.json
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/refint/WorldServiceLibrary.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.pdb
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/ref/WorldServiceLibrary.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/obj/Debug/net8.0/WorldServiceLibrary.csproj.AssemblyReference.cache

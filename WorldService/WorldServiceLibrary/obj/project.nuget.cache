@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9ZWbqjWJYuHh8il2yUuiay09vQEiYfQq1EjMmTIa2VpUv9C0JM/wyj5dRC9BqisHh2qgIsmuA7ulQwVaTjqIg==",
+  "success": true,
+  "projectFilePath": "/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceLibrary/WorldServiceLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/mortenlunde/.nuget/packages/csvhelper/31.0.3/csvhelper.31.0.3.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/system.text.json/8.0.3/system.text.json.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

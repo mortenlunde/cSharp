@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Gf36PGghFGftj0Q7OzQVBKK2hs8FOrVevpRAj7nsQHmDm00cOZg6+8gP+X12NZJOX+UzCslS486nL9204JyIg==",
+  "success": true,
+  "projectFilePath": "/Users/mortenlunde/RiderProjects/GA/CSVDemo/CSVDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/mortenlunde/.nuget/packages/csvhelper/31.0.3/csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
