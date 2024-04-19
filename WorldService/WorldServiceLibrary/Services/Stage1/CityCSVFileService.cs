@@ -69,7 +69,7 @@ public static class CityCsvFileService
 
             return new City(id, strName, strCc, strDis, pop);
         }
-        logger?.Invoke($"Forventet 5 elementer, men mottk bare {content.Length}.");
+        logger?.Invoke($"Forventet 5 elementer, men mottok bare {content.Length}.");
         return null;
     }
 }

@@ -1,5 +1,4 @@
 using WorldClassLibrary.Models;
-
 namespace WorldClassLibrary.Services.Stage1;
 
 public class WorldService

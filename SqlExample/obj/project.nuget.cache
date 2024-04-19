@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxtZ4tdi8m1urasRSINQE3qHlWe/YjR0pf/hn9kdidaFnxxnqhK2DxMjL9MfQJAIn1YjmLd5dzqpg0wJrIadTQ==",
+  "success": true,
+  "projectFilePath": "/Users/mortenlunde/RiderProjects/GA/SqlExample/SqlExample.csproj",
+  "expectedPackageFiles": [
+    "/Users/mortenlunde/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/Users/mortenlunde/.nuget/packages/mysqlconnector/2.3.6/mysqlconnector.2.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -23,3 +23,15 @@
 /Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/CsvHelper.dll
 /Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/System.Text.Json.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/appsettings.json
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/mortenlunde/RiderProjects/GA/WorldService/WorldServiceConsole/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
