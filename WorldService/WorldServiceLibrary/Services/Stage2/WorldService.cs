@@ -8,13 +8,14 @@ namespace WorldClassLibrary.Services.Stage2
         IIWorldDataService<Country> countryService,
         IIWorldDataService<CountryLanguage> countryLanguageService,
         Action<string> logger)
-        : IIWorldService
+        : IWorldService
     {
         private readonly Action<string> _logger = logger;
 
-        public IEnumerable<City> GetCities()
+        public IEnumerable<City> GetCities(Func<City, bool>? searchFilter = default)
         {
-            return cityService.GetData();
+            Func<City, bool>? search = (searchFilter is not null) ? searchFilter : _ => true;
+            return cityService.GetData().Where(search);
         }
 
         public IEnumerable<Country> GetCountries()

@@ -9,7 +9,7 @@ public class CityCsvFileService(WorldServiceFileConfig config, Action<string> lo
 {
     public IEnumerable<City> GetData()
     {
-        return GetCities(config.CityCsv!, logger);
+        return GetCities(config.CityCsv, logger);
     }
 
     private static IEnumerable<City> GetCities(string filename, Action<string>? logger = null)

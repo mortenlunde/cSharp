@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lamda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b2c1455422933b52ecded45a48f91b7464d343e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f78bc8d95b17f44d7e6d7c19bee12828dfd954")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lamda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lamda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
